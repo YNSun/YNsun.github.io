@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who are we
 ---
+Hello, I am Elena
 
-My name is Inigo Montoya. I have the following qualities:
+And I am Yanan
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+
 
 What else do you need?
 
