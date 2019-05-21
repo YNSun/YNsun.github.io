@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About us
 subtitle: Who are we
 ---
 Hello, I am Elena
