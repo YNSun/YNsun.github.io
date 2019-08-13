@@ -3,10 +3,10 @@ layout: page
 title: About us
 subtitle: Who are we
 ---
-Hello, I am Elena
-
-And I am Yanan
+Hello!
 
 
 
-What else do we need?
+
+
+
