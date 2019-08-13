@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About us
-subtitle: Who are we
+title: About me
+subtitle: Talk Nerdy to Me
 ---
 Hello!
 
